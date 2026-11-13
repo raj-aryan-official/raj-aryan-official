@@ -116,11 +116,7 @@ Turns lecture notes into summaries, flashcards and concept maps. Built around th
 
 <sub>// PUBLIC SIGNAL</sub>
 
-<p align="center"><img src="assets/contributions.svg" width="100%" alt="Contribution map, last 12 months: 1,280 contributions" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=raj-aryan-official&theme=dark&hide_border=true&background=0A0A0A&border=252525&stroke=C0C0C0&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=C0C0C0&sideNums=FFFFFF&sideLabels=C0C0C0&dates=808080" width="495" alt="Contribution streak" /></p>
-
-<p align="center"><img src="assets/languages.svg" width="495" alt="Public repositories by primary language" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=raj-aryan-official&theme=dark&hide_border=false&background=0A0A0A&border=252525&stroke=C0C0C0&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=C0C0C0&sideNums=FFFFFF&sideLabels=C0C0C0&dates=808080" width="430" alt="Contribution streak" /> <img src="assets/languages.svg" width="430" alt="Public repositories by primary language" /></p>
 
 ## 07 · Numbers
 
