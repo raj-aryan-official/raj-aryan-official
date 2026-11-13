@@ -1,4 +1,4 @@
-# Raj Aryan
+<p align="center"><img src="assets/header.webp" alt="Raj Aryan" width="100%" /></p>
 
 Full-stack engineer and founder in Bengaluru. I build backends, distributed systems and AI products — currently an LMS for schools, plus my own software studio.
 
